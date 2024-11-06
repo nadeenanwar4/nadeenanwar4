@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&width=435&lines=Hi+there!+I'm+Nadeen+👋;Welcome+to+my+GitHub+profile!+;Flutter+Developer+and+Network+Enthusiast)
+![Welcome Animation](https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif)
+
+I'm **Nadeen**, a passionate **Flutter developer** with a strong interest in **networking** and **software development**. Welcome to my GitHub profile!
 
 
 <!--
