@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Welcome Animation](https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif)
+<img src="https://assets9.lottiefiles.com/packages/lf20_tfb3estd.json"  width="400" alt="Developer Animation" />
 
-I'm **Nadeen**, a passionate **Flutter developer** with a strong interest in **networking** and **software development**. Welcome to my GitHub profile!
+I'm **Nadeen**, a passionate **Flutter developer** with a strong interest in **netwo
 
 
 <!--
