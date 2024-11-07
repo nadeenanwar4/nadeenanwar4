@@ -6,7 +6,47 @@
 
 
 
-![Flutter Dev](https://lottie.host/278cc1f3-cfba-4e38-85e3-89bf30eddf0b/zpChpWTkZC.json)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="right">
+ <img src="https://github.com/nadeenanwar4/nadeenanwar4/blob/main/Animation - 1730892489385.gif" width="350" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 💻 Languages & Tools:
